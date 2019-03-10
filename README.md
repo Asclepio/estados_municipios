@@ -1,2 +1,5 @@
-# Estados e Municipios (5570 dos munícipios do Brasil)
-#Estado, 
+# Estados e Municípios
+#Dados: ibge,	municipio,	latitude,	longitude,	cod_estado,	estado,	uf,	regiao e capital - Atualizados em 10-03-2019
+
+Bruno Liberato da Silva
+wwww.brunoliberato.com.br
