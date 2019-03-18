@@ -1,11 +1,9 @@
-# Estados e Municípios
+# States and cities in Brasil
 # 
-### Informações: 
-#### ibge,	municipio,	latitude,	longitude,	cod_estado,	estado,	uf,	regiao e capital - Atualizados em 10-03-2019
+### Information: 
+#### images,	cities,	lat,	long,	cod_estate,	state,	uf,	tegion and capital - updated on 10-03-2019
 
-#### Estou trabalhando no meu projeto final de Pós-Graduação, esse base vai integrar com outras três outras fontes de dados 
 
-##### Bruno Liberato da Silva
-##### wwww.brunoliberato.com.br
+##### dev Bruno Liberato da Silva
 
 ###### Fonte original dos dados: https://github.com/kelvins/Municipios-Brasileiros/
